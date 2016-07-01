@@ -14,7 +14,7 @@ import java.net.*;
  * @author Rolas
  */
 public class Servidor extends Frame implements ActionListener, Runnable, KeyListener {
-
+//hola
     ServerSocket servidor;
     Socket soket;
     BufferedReader lectura;
